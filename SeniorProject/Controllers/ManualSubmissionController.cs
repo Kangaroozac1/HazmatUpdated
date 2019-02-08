@@ -6,15 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SeniorProject.Controllers
 {
-    public class LogHistoryController : Controller
+    public class ManualSubmissionController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult LogHistory() {
 
-            ViewData["Message"] = "hello log history";
+        public IActionResult ManualSubmission() {
+            ViewData["Message"] = "hello submission";
             return View();
         }
     }

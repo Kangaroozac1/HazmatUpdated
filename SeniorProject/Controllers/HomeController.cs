@@ -15,24 +15,24 @@ namespace SeniorProject.Controllers
             return View();
         }
 
-        public IActionResult ManualSubmission()
-        {
-            ViewData["Message"] = "Your application description page.";
+        //public IActionResult ManualSubmission()
+        //{
+        //    ViewData["Message"] = "Your application description page.";
 
-            return View();
-        }
+        //    return View();
+        //}
 
-        public IActionResult ScannerManager()
-        {
-            ViewData["Message"] = "Your contact page.";
+        //public IActionResult ScannerManager()
+        //{
+        //    ViewData["Message"] = "Your contact page.";
 
-            return View();
-        }
+        //    return View();
+        //}
 
-        public IActionResult LogHistory()
-        {
-            return View();
-        }
+        //public IActionResult LogHistory()
+        //{
+        //    return View();
+        //}
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

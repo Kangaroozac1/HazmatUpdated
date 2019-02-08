@@ -6,15 +6,16 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SeniorProject.Controllers
 {
-    public class LogHistoryController : Controller
+    public class ScannerManagerController : Controller
     {
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult LogHistory() {
+        public IActionResult ScannerManager() {
 
-            ViewData["Message"] = "hello log history";
+            ViewData["Message"] = "What up Scanner manager";
+
             return View();
         }
     }

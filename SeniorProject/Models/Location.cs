@@ -10,5 +10,6 @@ namespace SeniorProject.Models
         public double XCoordinates { get; set; }
 
         public double YCoordinates{ get; set; }
+
     }
 }

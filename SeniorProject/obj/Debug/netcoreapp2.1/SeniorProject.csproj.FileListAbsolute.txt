@@ -50,10 +50,7 @@ C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\net
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\1.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\2.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\LogHistory.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Main.g.cshtml.cs
-C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\ManualSubmission.g.cshtml.cs
-C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\ScannerManager.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -66,3 +63,6 @@ C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\net
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\SeniorProject.dll
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\SeniorProject.pdb
 C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\SeniorProject.csproj.CopyComplete
+C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\ScannerManager\ScannerManager.g.cshtml.cs
+C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\LogHistory\LogHistory.g.cshtml.cs
+C:\Users\jeffk.DESKTOP-CE8H4QM\Desktop\HazmatUpdated\SeniorProject\obj\Debug\netcoreapp2.1\Razor\Views\ManualSubmission\ManualSubmission.g.cshtml.cs
