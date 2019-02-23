@@ -2,12 +2,12 @@
 
 namespace Hazmat
 {
-    internal class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
 
-        public DbSet<Object> ObjIDs { get; set; }
+        //public DbSet<Object> ObjIDs { get; set; }
 
-        public DbSet<Scanner> ScannerIDs { get; set; }
+        //public DbSet<Scanner> ScannerIDs { get; set; }
 
         public DbSet<Login> Login { get; set; }
 

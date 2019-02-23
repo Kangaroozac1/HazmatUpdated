@@ -1,8 +1,15 @@
 ﻿@page
-@model Hazmat.Pages.LoginModel
-@{
-    ViewData["Title"] = "Login";
-}
+@model LoginModel
+
 
 <h2>Login</h2>
 
+<form method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        Username: <input asp-for="Login.Username" />
+        Password: <input asp-for="Login.Password" />
+        <input type="submit" />
+    </div>
+
+</form>
